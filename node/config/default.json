@@ -1,6 +1,6 @@
 {
-    "appSecret": "",
-    "pageAccessToken": "",
-    "validationToken": "",
-    "serverURL": ""
+    "appSecret": "a094b20b7c03816dd27e0cf7fa28962d",
+    "pageAccessToken": "EAALhmr8y9gIBAM25hB6LxxxEY7ABY76GaXTJrKoDYATjZBgdeRaUj2TGl4KDoV9hq2lXqV6UhJ1oiOs0FKhM6mReTrc0TS5tY86JFQRk3ivEG2Khuhb0DyBJC77NTjxkbCpbfIY9tlFsjcZBZBaDQedR0dzkPQBMaqb3qQ8VQZDZD",
+    "validationToken": "DK1923ud2d3i9ijhulsDha00pquwo",
+    "serverURL": "https://mbe-latam.com/mbebot/index.js"
 }
